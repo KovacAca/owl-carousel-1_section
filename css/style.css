@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  color: #fff;
+}
+
+.basic {
+  width: 70%;
+  margin: auto;
+  background: blueviolet;
+  color: #fff;
+}
+
+.text {
+  text-align: center;
+  padding: 100px;
+}
+.owl-carousel {
+  width: 70%;
+  margin: auto;
+  padding: 50px;
+}
+.item {
+  color: yellow;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
